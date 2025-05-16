@@ -16,7 +16,7 @@ namespace WebBanHang.Models
         public double Price { get; set; }
         public string? ImageUrl { get; set; }
         public int CategoryId { get; set; }
-        ///hahahahahahahaha
+        
       
         public virtual Category Category { set; get; } 
        
